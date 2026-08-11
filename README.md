@@ -411,13 +411,6 @@ Star Schema Data Model
 
 Star Schema reference is attached in screenshot<img width="2297" height="1095" alt="Screenshot 2026-08-11 223331" src="https://github.com/user-attachments/assets/6d43305a-94b0-4de1-9a11-3d8158061374" />
 
-
-
-[Finacial Analysis.pdf](https://github.com/user-attachments/files/30944428/Finacial.Analysis.pdf)
-[finance_transactions.csv](https://github.com/user-attachments/files/30944418/finance_transactions.csv)
-[customers.csv](https://github.com/user-attachments/files/30944416/customers.csv)
-
-
 Project Architecture
 
 
